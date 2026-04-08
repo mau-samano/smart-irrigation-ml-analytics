@@ -8,5 +8,11 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints
 
-# Data (no subir datasets)
+# Virtual env
+venv/
+
+#Raw data
 data/raw/*.csv
+
+#Log
+*.log
